@@ -17,7 +17,7 @@ Saya mencoba untuk menggabungkan increment dan decrement dalam 1 kasus di dalam 
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![contoh screenshot](img/sepeda.PNG)
+![contoh screenshot](img/sepeda.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720112Dhan.java)
 
