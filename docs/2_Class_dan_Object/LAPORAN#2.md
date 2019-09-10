@@ -42,7 +42,7 @@ Link kode program : [ini link ke kode program](../../src/2_Class_dan_Object/Test
 
 Link kode program : [ini link ke kode program](../../src/2_Class_dan_Object/Barang1841720112Dhan.java)
 
-![screenshot](img/testBarang.png)
+![screenshot](img/testbarang.png)
 
 Link kode program : [ini link ke kode program](../../src/2_Class_dan_Object/TestBarang1841720112Dhan.java)
 
