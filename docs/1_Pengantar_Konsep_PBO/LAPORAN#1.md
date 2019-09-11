@@ -13,23 +13,17 @@ Saya mencoba untuk menggabungkan increment dan decrement dalam 1 kasus di dalam 
 
 ### Percobaan 1
 
-(berisi penjelasan percobaan 1. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+program Sepeda
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![screenshot sepeda](img/sepeda.png)
 
-![contoh screenshot](img/sepeda.png)
+link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720112Dhan.java)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720112Dhan.java)
+![screenshot sepeda demo](img/sepedademo.png)
 
-![contoh screenshot](img/sepedademo.png)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720112Dhan.java)
+link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720112Dhan.java)
 
 ### Percobaan 2
-
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
-
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
 ![contoh screenshot](img/sepedagunung.png)
 
