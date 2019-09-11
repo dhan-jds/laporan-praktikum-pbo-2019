@@ -25,13 +25,13 @@ link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Kons
 
 ### Percobaan 2
 
-![contoh screenshot](img/sepedagunung.png)
+![screenshot](img/sepedagunung.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720112Dhan.java)
+link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720112Dhan.java)
 
-![contoh screenshot](img/sepedagunungdemo.png)
+![screenshot](img/sepedagunungdemo.png)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720112Dhan.java)
+link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720112Dhan.java)
 
 
 ## Pertanyaan
@@ -47,16 +47,11 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 6.  Karena sudah menggunakan fungsi extends ke class sepeda.
 
 ## Tugas
+![screenshot](img/tugaswifi1.png)
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/WifiSignal1841720112Dhan.java)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
-
-![contoh screenshot](img/tugaswifi1.png)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/WifiSignal1841720112Dhan.java)
-
-![contoh screenshot](img/tugaswifi1demo.png)
+![screenshot](img/tugaswifi1demo.png)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/WifiSignalDemo1841720112Dhan.java)
 
