@@ -32,11 +32,11 @@ Link kode program : [ini link ke kode program](../../src/3_Enkapsulasi/Mahasiswa
 
 ### Percobaan 2
 
-![screenshot](img/prak1main.png)
+![screenshot](img/prak2.png)
 
 Link kode program : [ini link ke kode program](../../src/3_Enkapsulasi/Mahasiswa1841720112Dhan.java)
 
-![screenshot](img/prak1main.png)
+![screenshot](img/prak2main.png)
 
 Link kode program : [ini link ke kode program](../../src/3_Enkapsulasi/Mahasiswa1841720112Dhan.java)
 
