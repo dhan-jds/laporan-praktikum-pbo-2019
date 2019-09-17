@@ -77,7 +77,7 @@ Link kode program : [ini link ke kode program](../../src/3_Enkapsulasi/KoperasiD
 
 Link kode program : [ini link ke kode program](../../src/3_Enkapsulasi/Anggota1841720112Dhan.java)
 
-![screenshot](img/prak4main.png)
+![screenshot](img/prak4Main.png)
 
 Link kode program : [ini link ke kode program](../../src/3_Enkapsulasi/KoperasiDemo1841720112Dhan.java)
 
