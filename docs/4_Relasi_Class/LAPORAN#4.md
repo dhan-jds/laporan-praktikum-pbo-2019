@@ -17,17 +17,17 @@ Mempelajari tentang relasi class dimana 2 class atau lebih memiliki hubungan has
 Membuat class processor
 ![screenshot](img/Screenshot_1.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Processor1841720112Dhan.java)
 
 Membuat class laptop
 ![screenshot](img/Screenshot_2.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Laptop1841720112Dhan.java)
 
 Membuat class main
 ![screenshot](img/Screenshot_3.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/MainPercobaan11841720112Dhan.java)
 
 ## Pertanyaan
 
@@ -67,22 +67,22 @@ Laptop l = new Laptop("Thinkpad", new Processor("Intel i5",
 Membuat class mobil
 ![screenshot](img/Screenshot_4.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Mobil1841720112Dhan.java)
 
 membuat class sopir
 ![screenshot](img/Screenshot_5.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Sopir1841720112Dhan.java)
 
 Membuat class pelanggan
 ![screenshot](img/Screenshot_6.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Pelanggan1841720112Dhan.java)
 
 Membuat claas main
 ![screenshot](img/Screenshot_7.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/MainPercobaan21841720112Dhan.java)
 
 ## Pertanyaan
 
@@ -119,17 +119,17 @@ Jadi untuk apakah sintaks p.getMobil().getMerk() yang ada di dalam method main t
 Membuat class pegawai
 ![screenshot](img/Screenshot_8.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Pegawai1841720112Dhan.java)
 
 Membuat class kereta api
 ![screenshot](img/Screenshot_9.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java) *kode program sudah saya ubah dengan ketentuan pertanyaan nomor 4, program yang asli seperti pada screenshot diatas
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/KeretaApi1841720112Dhan.java) *kode program sudah saya ubah dengan ketentuan pertanyaan nomor 4, program yang asli seperti pada screenshot diatas
 
 Membuat main class
 ![screenshot](img/Screenshot_10.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/MainPercobaan31841720112Dhan.java)
 
 ## Pertanyaan
 
@@ -162,22 +162,22 @@ masinis); System.out.println(keretaApi.info());
 Membuat class penumpang
 ![screenshot](img/Screenshot_11.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Penumpang1841720112Dhan.java)
 
 membuat class kursi
 ![screenshot](img/Screenshot_12.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Kursi1841720112Dhan.java)
 
 Membuat class gerbong
 ![screenshot](img/Screenshot_13.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)*kode program sudah saya ubah dengan ketentuan pertanyaan nomor 5, program yang asli seperti pada screenshot diatas
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Gerbong1841720112Dhan.java)*kode program sudah saya ubah dengan ketentuan pertanyaan nomor 5, program yang asli seperti pada screenshot diatas
 
 Membuat claas main
 ![screenshot](img/Screenshot_14.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)*kode program sudah saya ubah dengan ketentuan pertanyaan nomor 4, program yang asli seperti pada screenshot diatas
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/MainPercobaan41841720112Dhan.java)*kode program sudah saya ubah dengan ketentuan pertanyaan nomor 4, program yang asli seperti pada screenshot diatas
 
 ## Pertanyaan
 
@@ -212,13 +212,33 @@ info += "Penumpang: " + penumpang.info() + "\n";
 
 ## Tugas
 
-![screenshot](img/tugas1.png)
+UML Diagram
+![screenshot](img/tugas.png)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Membuat class game
+![screenshot](img/Screenshot_15.png)
 
-![screenshot](img/tugas1test.png)
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Game1841720112Dhan.java)
 
-Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Motor1841720112Dhan.java)
+Membuat class sewa
+![screenshot](img/Screenshot_16.png)
+
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Sewa1841720112Dhan.java)
+
+Membuat class kasir
+![screenshot](img/Screenshot_17.png)
+
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Kasir1841720112Dhan.java)
+
+Membuat class customer
+![screenshot](img/Screenshot_18.png)
+
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/Customer1841720112Dhan.java)
+
+Membuat class main
+![screenshot](img/Screenshot_19.png)
+
+Link kode program : [ini link ke kode program](../../src/4_Relasi_Class/MainTugas1841720112Dhan.java)
 
 ## Kesimpulan
 
