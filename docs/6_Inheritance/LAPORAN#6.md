@@ -264,32 +264,32 @@ Terlihat dipotongan program diatas atribut gaji, lembur dan potongan dapat diaks
 ## Tugas
 
 Membuat class Komputer
-![screenshot](img/tugas1.png)
+![screenshot](img/Tugas1.png)
 
 Link kode program : [ini link ke kode program](../../src/6_Inheritance/Komputer1841720112Dhan.java)
 
 Membuat class Leptop
-![screenshot](img/tugas2.png)
+![screenshot](img/Tugas2.png)
 
 Link kode program : [ini link ke kode program](../../src/6_Inheritance/Leptop1841720112Dhan.java)
 
 Membuat class Pc
-![screenshot](img/tugas3.png)
+![screenshot](img/Tugas3.png)
 
 Link kode program : [ini link ke kode program](../../src/6_Inheritance/Pc1841720112Dhan.java)
 
 Membuat class Mac
-![screenshot](img/tugas4.png)
+![screenshot](img/Tugas4.png)
 
 Link kode program : [ini link ke kode program](../../src/6_Inheritance/Mac1841720112Dhan.java)
 
 Membuat class Windows
-![screenshot](img/tugas5.png)
+![screenshot](img/Tugas5.png)
 
 Link kode program : [ini link ke kode program](../../src/6_Inheritance/Windows1841720112Dhan.java)
 
 Membuat class main
-![screenshot](img/tugas6.png)
+![screenshot](img/Tugas6.png)
 
 Link kode program : [ini link ke kode program](../../src/6_Inheritance/Main1841720112Dhan.java)
 
